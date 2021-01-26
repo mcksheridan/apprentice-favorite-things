@@ -2,6 +2,7 @@ Flash's Favorites:
 - Pandas
 - Mint chocolate chip
 - Summer
+- Delete this?
 
 Rise's Favorites:
 - Koalas
