@@ -8,6 +8,7 @@ Rise's Favorites:
 - Koalas
 - Chocolate Chip Cookie Dough
 - Winter
+- Bolognese
 
 Sheridan's Favorites:
 - Elephants
