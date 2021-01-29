@@ -9,3 +9,5 @@ jobs:
     - uses: actions/checkout@master
     - uses: rojopolis/spellcheck-github-actions@master
       name: Spellcheck
+      with:
+        config_path: spellcheck.yaml
