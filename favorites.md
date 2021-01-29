@@ -17,5 +17,5 @@ Rise's Favorites:
 
 Sheridan's Favorites:
 - Elephants
-- Cofee
+- Coffee
 - Spring
